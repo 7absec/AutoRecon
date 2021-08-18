@@ -3,9 +3,9 @@ An automated tool to enumerate subdomains find the live subdomains checks for su
 
 
 Requirements
-  \n assetfinder
-  \n httprobe
-  \n subjack
-  \n waybackurls
-  \n eyewitness
+  assetfinder <br>
+  httprobe <br>
+  subjack <br>
+  waybackurls <br>
+  eyewitness
   
